@@ -1,6 +1,3 @@
-<h2 align="center">
-  <img alt="NLW-eSports" title="#nlw-esports" src="/logo.svg" width="400"/>
-</h2>
 
 <h1 align="center">
     Game - NLW#9 - eSports
@@ -11,9 +8,6 @@
  <a href="#objective">Objective</a> •
  <a href="#technologies">Technologies</a> • 
  <a href="#usage">Usage</a> • 
- <a href="#contribution">Contribution</a> • 
- <a href="#author">Author</a> • 
- <a href="#license">License</a>
 </p>
 
 <h1 align="center">
