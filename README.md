@@ -11,10 +11,7 @@
 </p>
 
 <h1 align="center">
-<div style="display: flex; flex-direction: row;">
-  <img width="400" style="border-radius: 10px" height="auto" alt="Print da tela inicial da aplicação" title="Home" src=".github/home.png" />
-  <img width="400" style="border-radius: 10px" height="auto" alt="Print do modal aberto para criar um anúncio" title="Modal" src=".github/modal.png" />
-  <div>
+
 </h1>
 
 <h4 align="center"> 
